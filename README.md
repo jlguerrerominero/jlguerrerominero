@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 Juan Luis is a technical referent in Microsoft technologies with specialty in .NET. Extensive experience in the development of business environments in the Microsoft platform. Technical leader in Microsoft Azure with experience in project planning, analysis, development, implementation and management. Broad experience in systems integration, solutions creation and management applications architecture. 
 Standardization of development and implementation methodologies, load testing, performance testing, traceability and management error analysis.
 Mentor and facilitator in small teams, extremely motivated and eager to continue learning. Passionate about new technologies and their uses. Speaker and trainer with a positive presence in both internal and public communities and social networks
@@ -33,4 +32,3 @@ Mentor and facilitator in small teams, extremely motivated and eager to continue
 
 
 🔭 I’m currently working on #Azure with #Dapr and so on, so you can ask me about it ;).
--->
